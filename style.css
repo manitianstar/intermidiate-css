@@ -1,0 +1,35 @@
+.flag{
+    position: absolute;
+   height: 600px;
+   width: 900px;
+   left: 300px;
+    background-color: red;
+
+}
+#first{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+#middle_box{
+    height: 300px;
+    width: 900px;
+    background-color: rgb(39, 39, 128);
+}
+#inner_box{
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+    left: 350px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+}
+#second{
+   position: relative;
+   text-align: center;
+   top: 10px;
+   font-size: 75px;
+}
